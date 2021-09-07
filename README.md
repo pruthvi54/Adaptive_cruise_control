@@ -1,7 +1,7 @@
 # Adaptive_cruise_control
 Simulink model of adaptive cruise control 
 
-# Given data
+## Given data
 m = 1000 kg  ; mass
 ρ = 1.2     ; air density
 Cd = 0.5  ; Drag coefficient
